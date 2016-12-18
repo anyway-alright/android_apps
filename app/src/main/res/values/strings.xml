@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLifeCycle</string>
+    <string name="mainActivity_button">Main</string>
+    <string name="newActivity_button">New</string>
+</resources>
